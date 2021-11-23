@@ -1,5 +1,56 @@
 #EXTM3U
-#EXTINF:0, LIBERIA VS NIGERIA 1
-xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC9Pd0VBQUIlMmJMQ0FBQUFBQUFCQUFGd2NseWdqQUFBTkFQWWhoSVNVZzVlRUEyYVFOalpjOHRDYURJSmlJS2poJTJmZjl4N3pPc2ZDUjBoUDFJQjRwaUNEU2p4cDdOOGFBSWRwaXpHMXY5MUtjbWtJb3plSE9QNUxzc3htZ0N0SE5LMEpocFhsWDNHTDBvdG9tNkFCaTVmTmdWc3NxOUx2c1JGNm1JQ1RXWmxFcDBlbmZMWUFBaCUyYkVqWDBiMHhFN2lmU3lrb2NiMk1abXpaYXl2NXZ6MGh1Njh1dXdVMmlSZWlpNmw4UVpmV2FwMWRoJTJmVjFIeVhNSkRlb1hLUU13aGY0cDFIZzhwU2FoRG5kTlBWVVBlYmtYODJ1MCUyYjh5M1dJY3R6M2syRHZFZkxoJTJibXFXbVBHWkFBTklVT0dhcGxyZ01tOFZBMU5BMEpESmY3RWVVOVZEaDJ4UlduVTNkJTJmbzFKMm5NdktwVk1Xd2NNM3Q5dVZsRiUyZjI4OG1EM0QxT1IzTUk3QVFBQSRodHRwLXJlZmZlcmVyPWh0dHA6Ly9saW5rcHJvdGVjdC54bXR2cGxheWVyLmNvbQ%3d%3d
-#EXTINF:0, LIBERIA VS NIGERIA 2
-xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC9Pd0VBQUIlMmJMQ0FBQUFBQUFCQUFGd2NtT2dqQUFBTkFQSW1UQVNwR0RCNjFXSXRBSzQ3RGRXclpRUkJhdEF1SGo1ejJnSkJqNFlTJTJmdnk2R1ZTaTJPbmVVU2tkWER6JTJiMHQlMmJPUVZCblNjZGtxSHNLTFgxSktQTnlMME1yRXhMQ2I1ZWQwNmZBZEoxWDNoTWtiME9RNktEemZsVkE4aTRwRVZ1ODhkeEVJbWphM2I1empDTlNuc2NCNVRnaTllSHgwdzU1WDVTSHBJZTNjd2xRdm81bDJkeTVQajg4WkJOUDRJbVZhTk1aZlJmSktaUUFOQ3h3RFhvJTJiVG5aJTJiRzJiVlpaQjIyRHYxTktza0NSNGdWYjZybnRkNzlmWGZzdmNKMTVwbDA4R0twQUs0T2FWcHFNcWZyV3l0UXRNMHFWQTUycFBOY3NBUFFNR0xtNTdtcXZEVFAlMmJlJTJmY1hJMmMzU01MVGRlWWMwU1BUMGdva3dVSlNCNU50aDV2OVAlMmI2bURPYzdBUUFBJGh0dHAtcmVmZmVyZXI9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29t
+#EXTINF:0, B-LIVE (SD)
+https://47392131083622437.soccercdn.football/live/7ugm997fevxp_SD.m3u8 Referer=https://m.bein-live.net/2021/04/2-bein-sports-premium-2.html
+#EXTINF:0, B-LIVE (HD)
+https://47392131083622437.soccercdn.football/live/7ugm997fevxp_HD.m3u8 Referer=https://m.bein-live.net/2021/04/2-bein-sports-premium-2.html
+#EXTINF:0, B-LIVE (FHD)
+https://47392131083622437.soccercdn.football/live/7ugm997fevxp_FHD.m3u8 Referer=https://m.bein-live.net/2021/04/2-bein-sports-premium-2.html
+#EXTINF:0, H-SPORTS1 (SD)
+http://aaaaaa-1441546261.us-west-2.elb.amazonaws.com/live/EWQTRJTR/playlist.m3u8 Referer=http://www.hesgoal.com/news/92066/Dynamo_Kiev_vs_Bayern_Munchen.html
+#EXTINF:0, H-SPORTS2 (SD)
+http://bbbbbbbb-357458869.us-west-2.elb.amazonaws.com/live/EWQTRJTR/playlist.m3u8 Referer=http://www.hesgoal.com/news/92066/Dynamo_Kiev_vs_Bayern_Munchen.html
+#EXTINF:0, H-SPORTS3 (SD)
+http://cccccc-2076686579.us-west-2.elb.amazonaws.com/live/EWQTRJTR/playlist.m3u8 Referer=http://www.hesgoal.com/news/92066/Dynamo_Kiev_vs_Bayern_Munchen.html
+#EXTINF:0, OVO-1 (SD)
+http://104.248.163.12/live/abr_s-2/live/s-2/chunks.m3u8 Referer=http://www.ovostreams.com/dyn-kyiv-vs-bayern-munich-game2-uefa.php
+#EXTINF:0, OVO-2 (HD)
+http://165.227.239.169/live/abr_s-2/playlist.m3u8?wmsAuthSign= Referer=http://www.ovostreams.com/dyn-kyiv-vs-bayern-munich-game2-uefa.php
+#EXTINF:0, MH-1-TRUE VISION(BS1) (HD)
+https://eiei.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8 Referer=https://mhdtvworld.xyz/
+#EXTINF:0, MH-2-TRUE VISION(BS2) (HD)
+https://eiei.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8 Referer=https://mhdtvworld.xyz/
+#EXTINF:0, TECHO-1 (HD)
+https://reels2watch.com/hls/s1.m3u8 Referer=https://techoreels.com/clip/s1.html
+#EXTINF:0, TECHO-2 (HD)
+https://nflarcadia.xyz/hls/s1.m3u8 Referer=https://techoreels.com/2021/s1/
+#EXTINF:0, Cycling (HD)
+http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSA1OjI4Cjo0MAogUE0maGFzaF92YWx1ZT1KWGZHRnVsMUhFNktTa1hxOFFxRmRBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDIuODkuMy45NyZzdHJtX2xlbj00 Referer=http://thecyclingentertainment.com/novo/events/23-bayern-barca/
+#EXTINF:0, ALLSPORT (HD)
+http://45.148.26.188/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSA1OjMwCjoxNQogUE0maGFzaF92YWx1ZT00dWlHYy82RFdNKzQxTE9CdFZUaGRRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNDEuMTAxLjc2LjQ1JnN0cm1fbGVuPTQ= Referer=http://allsportsmedia.live/novo/total/23-bayern-barca/
+#EXTINF:0, CYF (SD)
+http://77.247.109.15/live/s1/playlist.m3u8 Referer=http://www.cyfostreams.com/streams/2021/dynamo-kyiv-vs-bayern-m-nchen-s1/
+#EXTINF:0, SOCCER-24-1(HD)
+https://eskomplia.000webhostapp.com/hls/ff5.m3u8 Referer=https://soccer24hd.com:2053/
+#EXTINF:0, PAWA (SD/HD)
+https://log.t4m.xyz:2053/hls/bn.m3u8 Referer=https://www.pawastreams.live/tottenham-hotspur-vs-leeds-united-2/4741/
+#EXTINF:0, WEAK (SD/HD)
+http://weak1121d1.azureedge.net/live/sspl/chunks.m3u8 Referer=http://weakstreams.com/streams/9576106
+#EXTINF:0, KOOORA (SD/HD)
+https://j3.thefitnesshints.com/live/bein1-prem.m3u8 Referer=https://www.thefitnesshints.com/
+#EXTINF:0, JIMU (SD/HD)
+http://cdn-us-east-6.akamaiihd.xyz/localstorage/f2/storage.m3u8 Referer=http://jmutech.xyz/tottenham-hotspur-vs-leeds-united/?sport=soccer
+#EXTINF:0, HOCKEY (SD/HD)
+http://45.94.28.83/hls/S2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMSA0OjM5Cjo1MwogUE0maGFzaF92YWx1ZT1Tc0NMZlFvVnpLditUc2FJcXpNZXRRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD04OC45Ny41Ny4xMTAmc3RybV9sZW49NA== Referer=http://hockeyweb.site/daily/news/Tothotspur21/?sport=soccer
+#EXTINF:0, SUPERTI (SD/HD)
+https://stream.supertipz.com/live/prem2.m3u8 Referer=https://supertipz.com/barcelona-vs-espanyol/
+#EXTINF:0, Sports/2021 (SD/HD)
+http://64.227.68.255/live/abr-arehy2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSA3OjU3OjU1IFBNJmhhc2hfdmFsdWU9eVFVTXpZSmh4NTJQdzVaUXZETnQ4QT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTYyLjE1OC4yNTUuNjUmc3RybV9sZW49NQ== Referer=http://www.sportnews.to/
+#EXTINF:0, H-SPORTS4 (SD)
+http://dddddddd-1492359097.us-west-2.elb.amazonaws.com/live/EWQTRJTR/playlist.m3u8 Referer=http://www.hesgoal.com/news/92066/Dynamo_Kiev_vs_Bayern_Munchen.html
+#EXTINF:0, H-SPORTS5 (SD)
+http://aaaaa-1660269063.us-east-1.elb.amazonaws.com/live/EWQTRJTR/playlist.m3u8 Referer=http://www.hesgoal.com/news/92066/Dynamo_Kiev_vs_Bayern_Munchen.html
+#EXTINF:0, H-SPORTS6 (SD)
+http://bbbbbbbb-40790099.us-east-1.elb.amazonaws.com/live/EWQTRJTR/playlist.m3u8 Referer=http://www.hesgoal.com/news/92066/Dynamo_Kiev_vs_Bayern_Munchen.html
+
+
+
